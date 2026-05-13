@@ -1,5 +1,7 @@
 # Finance-Data-Engineering-Platform README
 
+<img width="1536" height="1024" alt="ChatGPT Image May 14, 2026, 02_09_29 AM" src="https://github.com/user-attachments/assets/06c523d9-312d-4fb3-91a3-4d17286e1dcf" />
+
 ````markdown
 # Finance-Data-Engineering-Platform
 
